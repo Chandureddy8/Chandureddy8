@@ -13,6 +13,6 @@
 [2.1]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [3.1]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
-[1]: http://www.twitter.com/
+[1]: http://www.twitter.com/imchandu_reddy
 [2]: http://www.facebook.com/reddy081
-[3]: http://www.github.com/carlsednaoui
+[3]: http://www.github.com/Chandureddy8
