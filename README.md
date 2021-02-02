@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Chandureddy8&label=PROFILE+VIEWS)
+
 - 🔭 I’m currently working on machine learning and deep learning.
 - 🌱 I’m currently learning flask.
 - 👯 I’m looking to collaborate on ML and DL projects.
