@@ -18,8 +18,3 @@
 [3]: http://www.github.com/Chandureddy8
 
 
-![chandu's github stats](https://github-readme-stats.vercel.app/api?username=Chandureddy8)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandureddy8)](https://github.com/Chandureddy8/github-readme-stats)
-
-
